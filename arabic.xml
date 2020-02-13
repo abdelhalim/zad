@@ -97,5 +97,27 @@
             <itunes:duration>00:44:45</itunes:duration>
             <pubDate>Mon, 06 Jan 2020 00:00:00 EST</pubDate>
         </item>
+        <item>
+            <title>107- Arabic 1-7</title>
+            <description>Arabic 1-7</description>
+            <itunes:summary>Arabic 1-7</itunes:summary>
+            <itunes:subtitle>Arabic 107</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture7_Arabic_Semester1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture7_Arabic_Semester1.mp3</guid>
+            <itunes:duration>00:44:45</itunes:duration>
+            <pubDate>Mon, 10 Feb 2020 00:00:00 EST</pubDate>
+        </item>
+        <item>
+            <title>108- Arabic 1-8</title>
+            <description>Arabic 1-8</description>
+            <itunes:summary>Arabic 1-8</itunes:summary>
+            <itunes:subtitle>Arabic 108</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture8_Arabic_Semester1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture8_Arabic_Semester1.mp3</guid>
+            <itunes:duration>00:44:45</itunes:duration>
+            <pubDate>Wed, 12 Feb 2020 00:00:00 EST</pubDate>
+        </item>
     </channel>
 </rss>
